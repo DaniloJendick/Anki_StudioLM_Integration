@@ -1,4 +1,4 @@
-# Anki StudioLM Integration
+# Anki LM Studio Integration
 
 Connect Anki to LM Studio for seamless AI-powered card generation and processing.
 
