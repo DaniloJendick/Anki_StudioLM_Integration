@@ -108,6 +108,15 @@ Reference any text field in your prompts using double braces:
 
 **Limitations**: Image and audio fields not supported.
 
+
+### Example Prompts
+See included files for reference:
+- `SystemPromptExample.txt` - Sample system prompt configurations
+- `UserPromptExample.txt` - Sample user prompt templates
+
+Use these as starting points for your own prompt engineering.
+
+
 ## Troubleshooting
 
 - **Connection Issues**: Verify LM Studio server is running
