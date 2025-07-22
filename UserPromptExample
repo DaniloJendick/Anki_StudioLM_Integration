@@ -1,0 +1,135 @@
+This is just an Example. 
+I personally do not like "creative"(a.k.a. stupid) LLMs,
+So, I always make sure to explain exactly what I want in this example I am showing how to do the formatting and a few-shot prompt. 
+I will add someday a example with chain-of-thought. 
+
+Analyze this German sentence. Use PLAIN TEXT with minimal formatting. Be ultra-concise.
+
+Input: {{German}} //In my case this is the name of the Anki note Field. 
+
+Case: [Case + brief reason] <br> 
+Verb: [verb form - person/number/tense of "root"]  <br>
+Syntax: [word order pattern]<br>
+Register: [Formal/Informal/Neutral]<br>
+Morphology: [key agreements/irregular forms]<br>
+Usage: [when used]<br>
+Variants: [1-2 alternatives]<br>
+Translation: [word] - [meaning], [word] - [meaning]<br>
+
+
+
+Requirements:
+- One line per category
+- Maximum 5 words per explanation
+- If uncertain: "uncertain"
+- No bold/italic formatting
+- Essential facts only
+
+
+
+Input: Ich gehe nach Hause 
+Case: Nominative - subject "ich"<br>
+Verb: gehe - 1SG present of "gehen"<br>
+Syntax: SVO<br>
+Register: Neutral<br>
+Morphology: No irregular forms<br>
+Usage: Stating movement toward home<br>
+Variants: Ich fahre nach Hause<br>
+
+
+
+Input: Der Hund ist groß 
+Case: Nominative - subject and predicate<br>
+Verb: ist - 3SG present of "sein"<br>
+Syntax: SVO<br>
+Register: Neutral<br>
+Morphology: der agrees with Hund (masc)<br>
+Usage: Describing characteristics<br>
+Variants: Der Hund hier ist groß<br>
+
+
+
+Input: Sie haben ein Auto
+Case: Nominative subject, accusative object<br>
+Verb: haben - 3PL present of "haben"<br>
+Syntax: SVO<br>
+Register: Neutral<br>
+Morphology: ein agrees with Auto (neut acc)<br>
+Usage: Stating possession<br>
+Variants: Sie besitzen ein Auto<br>
+
+
+
+Input: Wir spielen Fußball
+Case: Nominative subject, accusative object<br>
+Verb: spielen - 1PL present of "spielen"<br>
+Syntax: SVO<br>
+Register: Informal<br>
+Morphology: No irregular forms<br>
+Usage: Describing activities<br>
+Variants: Wir spielen Ball<br>
+
+
+
+Input: Das Buch liegt auf dem Tisch 
+Case: Nominative subject, dative with "auf"<br>
+Verb: liegt - 3SG present of "liegen"<br>
+Syntax: SVO with prepositional phrase<br>
+Register: Neutral<br>
+Morphology: dem is dative masculine<br>
+Usage: Describing location<br>
+Variants: Das Buch ist auf dem Tisch<br>
+
+
+
+Input: Er hat gestern gearbeitet
+Case: Nominative - subject "er"<br>
+Verb: hat gearbeitet - 3SG perfect of "arbeiten"<br>
+Syntax: SVO with time adverb<br>
+Register: Neutral<br>
+Morphology: Perfect tense with "haben"<br>
+Usage: Past actions<br>
+Variants: Er arbeitete gestern<br>
+
+
+
+Input: Die Katze schläft
+Case: Nominative - subject only<br>
+Verb: schläft - 3SG present of "schlafen"<br>
+Syntax: SV<br>
+Register: Neutral<br>
+Morphology: Vowel change a→ä<br>
+Usage: Describing current state<br>
+Variants: Die Katze liegt und schläft<br>
+
+
+Input: Ich möchte Kaffee trinken
+Case: Nominative subject, accusative object<br>
+Verb: möchte - 1SG subjunctive of "mögen"<br>
+Syntax: SVO with infinitive<br>
+Register: Polite<br>
+Morphology: Modal verb construction<br>
+Usage: Polite requests/desires<br>
+Variants: Ich will Kaffee trinken<br>
+
+
+
+Input: Heute ist Montag
+Case: Nominative - subject and predicate<br>
+Verb: ist - 3SG present of "sein"<br>
+Syntax: Adverb-Verb-Subject<br>
+Register: Neutral<br>
+Morphology: No irregular forms<br>
+Usage: Stating current day<br>
+Variants: Es ist heute Montag<br>
+
+
+
+Input: Sie kommt morgen
+Case: Nominative - subject only<br>
+Verb: kommt - 3SG present of "kommen"<br>
+Syntax: SV with time adverb<br>
+Register: Neutral<br>
+Morphology: No irregular forms<br>
+Usage: Future plans<br>
+Variants: Sie wird morgen kommen<br>
