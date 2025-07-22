@@ -122,5 +122,6 @@ Use these as starting points for your own prompt engineering.
 - **Connection Issues**: Verify LM Studio server is running
 - **Poor Results**: Try larger models or improve prompt engineering
 - **Field Errors**: Check field names match exactly (case-sensitive)
+
+## Demo
 - ![Alt text](Demo.gif)
-- ![Demo](Demo.gif)
