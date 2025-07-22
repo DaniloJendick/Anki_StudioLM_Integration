@@ -1,0 +1,16 @@
+{
+    "package": "lm_studio_integration",
+    "name": "LM Studio Integration",
+    "mod": 1234567890,
+    "author": "Danilo Jendick Silva",
+    "human_version": "1.0.0",
+    "description": "Generate AI content for Anki cards using LM Studio. Features multi-field placeholders, retry logic, progress tracking, and error handling.",
+    "homepage": "https://github.com/DaniloJendick/Anki_StudioLM_Integration/tree/main",
+    "tags": ["ai", "automation", "content generation", "lm studio"],
+    "min_point_version": 45,
+    "max_point_version": 0,
+    "branch_index": 0,
+    "targets": ["desktop"],
+    "conflicts": [],
+    "update_enabled": true
+}

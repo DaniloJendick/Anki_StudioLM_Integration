@@ -1,0 +1,16 @@
+{
+    "target_field": "Answer",
+    "preferred_model": "",
+    "skip_existing": true,
+    "backup_before": true,
+    "system_prompt": "You are a helpful tutor. Provide clear, concise explanations for students.",
+    "user_prompt": "Explain this concept: {{Question}}\n\nInclude:\n- Clear explanation\n- Key points\n- Examples",
+    "temperature": 0.3,
+    "max_tokens": 200,
+    "timeout": 60,
+    "max_retries": 3,
+    "connection_dialog_geometry": "",
+    "field_dialog_geometry": "",
+    "prompt_dialog_geometry": "",
+    "processing_dialog_geometry": ""
+}
