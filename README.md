@@ -60,7 +60,7 @@ Connect Anki to LM Studio for seamless AI-powered card generation and processing
 
 1. Open Anki
 2. Go to **Tools** → **Add-ons** → **Get Add-ons**
-3. Enter addon code: `XXXXXXX`
+3. Enter addon code: 777816304
 4. Restart Anki
 
 ### Step 4: Test Connection
