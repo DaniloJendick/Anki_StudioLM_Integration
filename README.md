@@ -26,6 +26,7 @@ Connect Anki to LM Studio for seamless AI-powered card generation and processing
 2. **Download a Model**
    - Go to **Discovery** → **Model Search**
    - Download any chat model (recommended: llama-3.2 or similar)
+   - (I did not have great success with DeepSeek but you can try, I usually use the gemma-3, it also seems that less than 4B gives horrible results)
 
 3. **Load the Model**
    - Navigate to **Chat** tab
